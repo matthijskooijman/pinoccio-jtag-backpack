@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-dec-23)-stable date = Tue 16 Sep 2014 09:54:50 AM CEST
+
+BeginCmp
+TimeStamp = /53EDE705;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDECF1;
+Reference = P1;
+ValeurCmp = ICSP;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDECD8;
+Reference = P2;
+ValeurCmp = AVR-JTAG;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDE656;
+Reference = P3;
+ValeurCmp = PINOCCIO_HEADER_1;
+IdModule  = SIL-2.0mm-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EDE665;
+Reference = P4;
+ValeurCmp = PINOCCIO_HEADER_2;
+IdModule  = SIL-2.0mm-16;
+EndCmp
+
+EndListe
